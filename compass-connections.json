@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "5f0d35ec-87d2-4557-b8e0-321688df1bf8",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1742621930522"
+        }
+      },
+      "favorite": {
+        "name": "Amol"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "d1f733f3-b039-486d-bd2e-866791663ada",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1742621973048"
+        }
+      },
+      "favorite": {
+        "name": ""
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
